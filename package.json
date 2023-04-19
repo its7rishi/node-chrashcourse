@@ -1,0 +1,27 @@
+{
+  "name": "ndjs",
+  "version": "1.0.0",
+  "description": "NodeJs Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-js-crashcourse"
+  },
+  "keywords": [
+    "nodejs",
+    "backenddev",
+    "javascript"
+  ],
+  "author": "Saptarshi Majumdar",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
